@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+### Day 5 : June 5, 2017
+
+- Another day complete for JS30, and setting up the frame for the Calculator challenge for Free Code Camp, which will be continued at tomorrow's meetup!
+
+- pro / con: I know I jump around to different projects, but I have so many it's easy to return to them, but I'm driven to finish ONE thing if it's a cert, all JS30 days or an online course. 
+
 ### Day 4 : June 4, 2017
 
 - Spent a good chunk of yesterday coding for WordPress so just did Array Cardio 2 as part of <a href="https://javascript30.com/" target="_blank">Javscript 30</a>. 
