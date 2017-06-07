@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+### Day 6 : June 6, 2017
+
+- Did more WP site troubleshooting more than starting my calculator, kinda felt in a brain fog and not sure how to start. Questioning my route in Front End Dev for the 239802th time, it happens
+
+- pro / con: Found the missing closed div and such for WP site! only took sifting through 4 files to find/fix it... 
+
 ### Day 5 : June 5, 2017
 
 - Another day complete for JS30, and setting up the frame for the Calculator challenge for Free Code Camp, which will be continued at tomorrow's meetup!
