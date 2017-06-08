@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+### Day 7 : June 7, 2017
+
+- Created an account for Udacity to work through the free course sections as part of the Nanodegrees, I can also skip things that I already feel I've got a good handle on. Already went through the Scopes videos tonight!
+
+- pro / con: Hopefully this doesnt go over my head too quick or lack of applying the course material...but the bite sized videos are sure nice
+
 ### Day 6 : June 6, 2017
 
 - Did more WP site troubleshooting more than starting my calculator, kinda felt in a brain fog and not sure how to start. Questioning my route in Front End Dev for the 239802th time, it happens
