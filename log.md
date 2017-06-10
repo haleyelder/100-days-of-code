@@ -1,5 +1,18 @@
 # 100 Days of Code Log
 
+
+### Day 9 : June 9, 2017
+
+- Purchased <a href="http://portland.act-w.org/" target="_blank">ACT-W tickets</a> for the conference next week and prepping my website to be shown off! Probably will need a couple business cards ;)
+
+- pro / con: It's been overdue for some updates on the site...still seems behind to me, but there isn't much I have to show right now really. Hope to change that soon.
+
+### Day 8 : June 8, 2017
+
+- No time to log today, was celebrating and enjoying my birthday :)
+
+- pros: This is why I have been additionally saving a time log of previous days that can "cover" for days like this
+
 ### Day 7 : June 7, 2017
 
 - Created an account for Udacity to work through the free course sections as part of the Nanodegrees, I can also skip things that I already feel I've got a good handle on. Already went through the Scopes videos tonight!
