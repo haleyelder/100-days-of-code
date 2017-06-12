@@ -1,6 +1,18 @@
 # 100 Days of Code Log
 
 
+### Day 11 : June 11, 2017
+
+- Finalized the calc tutoarial and started refactoring from jQuery to vanilla javascript. Looking back for MERN tutorials and found one an old one to work through. 
+
+- pro / con: Still on my "I need focus trip," but more searching for fullstack React (MERN) would help I think. Put your nose to the grindstone!
+
+### Day 10 : June 10, 2017
+
+- Continued on some more Udacity work on closures, still confused for now. Also working through a JS calculator tutorial to work through FCC projects
+
+- pro / con: Still feel like I'm jumping around a lot for learning and even project ideas, I think I confuse myself too much. Hard to focus on one thing sometimes :\
+
 ### Day 9 : June 9, 2017
 
 - Purchased <a href="http://portland.act-w.org/" target="_blank">ACT-W tickets</a> for the conference next week and prepping my website to be shown off! Probably will need a couple business cards ;)
