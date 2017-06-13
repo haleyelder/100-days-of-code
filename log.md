@@ -1,5 +1,10 @@
 # 100 Days of Code Log
 
+### Day 12 : June 12, 2017
+
+- Another break from coding but for good reason! Local Women Who Code chapter celebrated 3 years! As part of the extended/volunteer team, I had to be in front of a 100 or so people, nervewracking!
+
+- pro : seeing old and new faces! our chapter has grown so much even since I started about 1.5 years ago. 
 
 ### Day 11 : June 11, 2017
 
