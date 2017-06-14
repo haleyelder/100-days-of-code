@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+### Day 13 : June 13, 2017
+
+- Searching, searching, searching, spinning some wheels again but I think I have a good foothold for tomorrow to start something! I think more of a break day again.
+
+- pro / con : kinda set up for tomorrow to start a walkthrough, but I feel like I do this too often and spin my wheels... 
+
 ### Day 12 : June 12, 2017
 
 - Another break from coding but for good reason! Local Women Who Code chapter celebrated 3 years! As part of the extended/volunteer team, I had to be in front of a 100 or so people, nervewracking!
