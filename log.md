@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+### Day 14 : June 14, 2017
+
+- Domain has been purchased for WP site, frantically finishing up some loose ends, I'm thinking Sunday might be the finalizing day if I don't get to it tomorrow. 
+
+- pro / con : overstressing myself for the conf this week is hindering my want to work on stuff, but working day by day is alright for now. 
+
 ### Day 13 : June 13, 2017
 
 - Searching, searching, searching, spinning some wheels again but I think I have a good foothold for tomorrow to start something! I think more of a break day again.
