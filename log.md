@@ -1,5 +1,11 @@
 # 100 Days of Code Log
 
+### Day 15 : June 15, 2017
+
+- Finishing up some css bugs and updating text on my portfolio site for the conf starting tomorrow, probably will be updating the log afterwards :)
+
+- pro / con : fix the styling that was driving me nuts with a sidescroll bar! and the nav, little things but a little piece of mind. Still stressing for tomorrow but just need to enjoy it and be myself!
+
 ### Day 14 : June 14, 2017
 
 - Domain has been purchased for WP site, frantically finishing up some loose ends, I'm thinking Sunday might be the finalizing day if I don't get to it tomorrow. 
