@@ -1,5 +1,12 @@
 # 100 Days of Code Log
 
+
+### Day 16 / 17  : June 16-17, 2017
+
+- went to ACT-W as mentioned before for both days and working on some more css bugs to hopefully move this theme to it's domain tomorrow! 
+
+- pro / con : there is just ONE part I'm trying to fix in the nav bar and I'm slowly getting it fixed! This is where people complain about CSS ;) I still think it's alright ;)
+
 ### Day 15 : June 15, 2017
 
 - Finishing up some css bugs and updating text on my portfolio site for the conf starting tomorrow, probably will be updating the log afterwards :)
