@@ -3,13 +3,13 @@
 - R1: [log](https://github.com/haleyelder/100-days-of-code/blob/main/log1.md) - started June 2017
 - R2: [log](https://github.com/haleyelder/100-days-of-code/blob/main/log2.md) - started March 2019
 - R3: [log](https://github.com/haleyelder/100-days-of-code/blob/main/log3.md) started December 2019
+- R4: [log](https://github.com/haleyelder/100-days-of-code/blob/main/log4.md) started September 2021
 
 
 ## Fourth Run
 Goal / Challenge 
 * hour a day minimum
-* working through Flavio Copes' [thejsbootcamp.com](https://thejsbootcamp.com/)
-* 
+* continue working through [CS50](https://cs50.harvard.edu/x/2021/) 
 
 -------------------------------
 
