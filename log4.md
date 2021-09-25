@@ -1,4 +1,9 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
-## 1: Sept 23
+
+### 2: Sept 24
+- tried to see how far I can get by finding some helpful videos or blogs to assist with the last bit of the filter function for pset4 and not finding quite what i'm looking for for my understanding. it also doesn't help being a friday tired mush brain and more difficult to try and understand or even know where to start. i'll take another look tomorrow for possible hints
+
+
+### 1: Sept 23
 - currently working through week4/pset4 - filter and spent part of the day rewatching a visual walk through of the loop to self explain the reflection loop to reverse an array; I was so stuck on the piece <code>[width - j - 1]</code> for so long, I think it finally clicked. attempted to start blur tonight, but as the most difficult of the pset, leaving it for tomorrow to break down.
