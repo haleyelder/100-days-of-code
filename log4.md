@@ -1,5 +1,7 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 4: Sept 26
+- pretty short day since being out for most of it for once! writing out the last bit of explanations (mostly) and getting set up for the next pset, just want to be done with week 4 then struggle through week 5! :P
 
 ### 3: Sept 25
 - wrote out the last bit of the functions and started writing out the walkthroughs in my notebook, stuck at blur again in that way. for these problems stuck in C, I'm more concerned with seeing how others did it and explain the basics to myself since I'm quite sure I won't be writing this type of code to start off with! (eg. C and low level programming)
