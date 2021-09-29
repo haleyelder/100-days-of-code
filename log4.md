@@ -2,7 +2,7 @@ start date: September 23, 2021, prospective end date: January 1, 2022
 
 ### 6: Sept 28
 - wrote out the last bit of the blur function explanation, some bits still kind of missing but will circle back, I got most of it...onto 'recover,' hopefully a tiny bit easier 😅
-- 
+
 ### 5: Sept 27
 - no real code work but some prep for a meeting the next day that was rescheduled 🙃
 
