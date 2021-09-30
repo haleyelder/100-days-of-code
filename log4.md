@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 7: Sept 29
+- started recovery problem set and noticed the programs you have to write out most all yourself seem much easier to get started, or the walkthroughs are more helpful, ha! also, bits and pieces of lecture notes code help get started on this one as well
+
 ### 6: Sept 28
 - wrote out the last bit of the blur function explanation, some bits still kind of missing but will circle back, I got most of it...onto 'recover,' hopefully a tiny bit easier 😅
 
