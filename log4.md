@@ -1,5 +1,11 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 11: Oct 3
+- started the notebook written explanation and leaving week 5 lecture for tomorrow, i'm sure it's goin to be info heavy again..
+
+### 10: Oct 2
+- wlked through an explanation after getting the problem start and did the checks for recover, no issues!
+
 ### 9: Oct 1
 - looked at the requirements again but saving it for tomorrow/later...Friday brain
 
