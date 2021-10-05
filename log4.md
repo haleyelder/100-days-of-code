@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 12: Oct 4
+- putting off the lecture 5 for a little bit longer, realized I never finished a week 3 blog post now writing out the week 4, 🤦‍♀️, outlining those tonight!
+
 ### 11: Oct 3
 - started the notebook written explanation and leaving week 5 lecture for tomorrow, i'm sure it's goin to be info heavy again..
 
