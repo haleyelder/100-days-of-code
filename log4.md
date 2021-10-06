@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 13: Oct 5
+- leaving the recap blog posts for the weekend to write up.. and backdate. watched lecture 5 on data structures, going to review course notes once more tomorrow and start the week lab
+- 
 ### 12: Oct 4
 - putting off the lecture 5 for a little bit longer, realized I never finished a week 3 blog post now writing out the week 4, 🤦‍♀️, outlining those tonight!
 
