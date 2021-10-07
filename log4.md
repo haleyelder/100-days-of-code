@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 14: Oct 6
+- shorter day as I had a bad insomnia night, reviewed the code for the first lab, pseudocode and walkthrough; this seems much easier to understand than last week so far (so far). hope to get a bit more leeway into it tomorrow
+
 ### 13: Oct 5
 - leaving the recap blog posts for the weekend to write up.. and backdate. watched lecture 5 on data structures, going to review course notes once more tomorrow and start the week lab
 
