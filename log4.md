@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 15: Oct 7
+- got to put a bit more time and understanding for lab 5 to write out an attempt, work through and note down. I see why they're much easier with walk throughs and pseudocode but nice to see this week only has one pset, it's probably another long doozy like filter. it's queued up for tomorrow (or saturday) to start piecing together
+
 ### 14: Oct 6
 - shorter day as I had a bad insomnia night, reviewed the code for the first lab, pseudocode and walkthrough; this seems much easier to understand than last week so far (so far). hope to get a bit more leeway into it tomorrow
 
