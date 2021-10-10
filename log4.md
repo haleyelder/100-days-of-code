@@ -1,5 +1,11 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 17: Oct 9
+- started to look over the problem set but interrupted by a work thing...so working on blog recap outlines and hope to post tomorrow!
+
+### 16: Oct 8
+- long week, needed a break
+
 ### 15: Oct 7
 - got to put a bit more time and understanding for lab 5 to write out an attempt, work through and note down. I see why they're much easier with walk throughs and pseudocode but nice to see this week only has one pset, it's probably another long doozy like filter. it's queued up for tomorrow (or saturday) to start piecing together
 
