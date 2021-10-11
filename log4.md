@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 18: Oct 10
+- haphazardly and quickly wrote out the week 3 and 4 recaps and published! Back to speller problem set tomorrow
+
 ### 17: Oct 9
 - started to look over the problem set but interrupted by a work thing...so working on blog recap outlines and hope to post tomorrow!
 
