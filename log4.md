@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 19: Oct 11
+- started breaking down the explanation of the problem into a different word doc to understand the process, it was a very long description, hints and notes and my skimming doesnt always catch the details! code time tomorrow
+
 ### 18: Oct 10
 - haphazardly and quickly wrote out the week 3 and 4 recaps and published! Back to speller problem set tomorrow
 
