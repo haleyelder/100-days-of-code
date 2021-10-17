@@ -1,52 +1,31 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
-### 20: Oct 12
+### 13 Oct 12
 - i recall with 'filter' I realized there was a playlist of videos to walk through much too late to refer to, but now focusing solely on the walk through and taking down comments and notes, I feel a tiny bit more confident I know what is going on. at least now i know where to refer to older lecture notes to reference and can google other gaps like usual. barely started on the first of five functions; I have a feeling the first is the longest/most difficult
 
-### 19: Oct 11
+### 12 Oct 11
 - started breaking down the explanation of the problem into a different word doc to understand the process, it was a very long description, hints and notes and my skimming doesnt always catch the details! code time tomorrow
 
-### 18: Oct 10
+### 11: Oct 10
 - haphazardly and quickly wrote out the week 3 and 4 recaps and published! Back to speller problem set tomorrow
 
-### 17: Oct 9
-- started to look over the problem set but interrupted by a work thing...so working on blog recap outlines and hope to post tomorrow!
-
-### 16: Oct 8
-- long week, needed a break
-
-### 15: Oct 7
+### 10: Oct 7
 - got to put a bit more time and understanding for lab 5 to write out an attempt, work through and note down. I see why they're much easier with walk throughs and pseudocode but nice to see this week only has one pset, it's probably another long doozy like filter. it's queued up for tomorrow (or saturday) to start piecing together
 
-### 14: Oct 6
-- shorter day as I had a bad insomnia night, reviewed the code for the first lab, pseudocode and walkthrough; this seems much easier to understand than last week so far (so far). hope to get a bit more leeway into it tomorrow
-
-### 13: Oct 5
+### 9: Oct 5
 - leaving the recap blog posts for the weekend to write up.. and backdate. watched lecture 5 on data structures, going to review course notes once more tomorrow and start the week lab
 
-### 12: Oct 4
-- putting off the lecture 5 for a little bit longer, realized I never finished a week 3 blog post now writing out the week 4, 🤦‍♀️, outlining those tonight!
-
-### 11: Oct 3
+### 8: Oct 3
 - started the notebook written explanation and leaving week 5 lecture for tomorrow, i'm sure it's goin to be info heavy again..
 
-### 10: Oct 2
-- wlked through an explanation after getting the problem start and did the checks for recover, no issues!
+### 7: Oct 2
+- walked through an explanation after getting the problem start and did the checks for recover, no issues!
 
-### 9: Oct 1
-- looked at the requirements again but saving it for tomorrow/later...Friday brain
-
-### 8: Sept 30
-- prepping again for the rescheduled meeting
-
-### 7: Sept 29
+### 6: Sept 29
 - started recovery problem set and noticed the programs you have to write out most all yourself seem much easier to get started, or the walkthroughs are more helpful, ha! also, bits and pieces of lecture notes code help get started on this one as well
 
-### 6: Sept 28
+### 5: Sept 28
 - wrote out the last bit of the blur function explanation, some bits still kind of missing but will circle back, I got most of it...onto 'recover,' hopefully a tiny bit easier 😅
-
-### 5: Sept 27
-- no real code work but some prep for a meeting the next day that was rescheduled 🙃
 
 ### 4: Sept 26
 - pretty short day since being out for most of it for once! writing out the last bit of explanations (mostly) and getting set up for the next pset, just want to be done with week 4 then struggle through week 5! :P
