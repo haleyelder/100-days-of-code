@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 14 Oct 18
+- took a bit of time for a brain break and adjusted the numbering here.. it'll be a bit wonky for a bit. worked a bit more on speller and reference materials to finish up the problem, goal is to finally finish it all up tomorrow  and then python 🐍!
+
 ### 13 Oct 12
 - i recall with 'filter' I realized there was a playlist of videos to walk through much too late to refer to, but now focusing solely on the walk through and taking down comments and notes, I feel a tiny bit more confident I know what is going on. at least now i know where to refer to older lecture notes to reference and can google other gaps like usual. barely started on the first of five functions; I have a feeling the first is the longest/most difficult
 
