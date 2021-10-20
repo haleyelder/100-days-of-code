@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 15 Oct 19
+- finished up the speller problem and submitted it, will wait for the written explanation unless i need it, still antsy for python lecture saving for tomorrow
+
 ### 14 Oct 18
 - took a bit of time for a brain break and adjusted the numbering here.. it'll be a bit wonky for a bit. worked a bit more on speller and reference materials to finish up the problem, goal is to finally finish it all up tomorrow  and then python 🐍!
 
