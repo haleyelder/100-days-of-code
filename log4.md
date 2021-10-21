@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 16 Oct 20
+- caught just a bit of watching this week's lecture, already seeing how much easier programming will be (i hope) after this week, in explanation, code to write and easier to read!
+
 ### 15 Oct 19
 - finished up the speller problem and submitted it, will wait for the written explanation unless i need it, still antsy for python lecture saving for tomorrow
 
