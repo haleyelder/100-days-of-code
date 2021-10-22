@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 17 Oct 21
+- watched the last half of lecture (in total 2hrs40min!), it was much more info than i thought all in one. of course, syntax, but comparing the same problem solutions in C, reviewing some libraries (a deep fake example at the end 😯, ready to start the lab tomorrow 
+
 ### 16 Oct 20
 - caught just a bit of watching this week's lecture, already seeing how much easier programming will be (i hope) after this week, in explanation, code to write and easier to read!
 
