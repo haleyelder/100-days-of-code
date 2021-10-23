@@ -2,7 +2,7 @@ start date: September 23, 2021, prospective end date: January 1, 2022
 
 ### 18 Oct 22
 - started the lab today and knew there would be some easy tidbits to grab from lecture, but it felt like once i went to start working on it, all that knowledge went out the window. I got a bit started but saving more for the weekend
-- 
+
 ### 17 Oct 21
 - watched the last half of lecture (in total 2hrs40min!), it was much more info than i thought all in one. of course, syntax, but comparing the same problem solutions in C, reviewing some libraries (a deep fake example at the end 😯, ready to start the lab tomorrow 
 
