@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 19 Oct 24
+- finished up the lab and may need to review some basics from another spot, something wasnt quite clicking in my brain for some flow of the problem. Submitted 2 of 5 psets, most are redoing the first few weeks in python instead of C
+
 ### 18 Oct 22
 - started the lab today and knew there would be some easy tidbits to grab from lecture, but it felt like once i went to start working on it, all that knowledge went out the window. I got a bit started but saving more for the weekend
 
