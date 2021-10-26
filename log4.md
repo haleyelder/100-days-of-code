@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 20 Oct 25
+- got to be pretty productive today and finished up two more conversion problem sets and started on DNA, might be kind of close to referring to 'tournament' or at least steal some code from that...
+
 ### 19 Oct 24
 - finished up the lab and may need to review some basics from another spot, something wasnt quite clicking in my brain for some flow of the problem. Submitted 2 of 5 psets, most are redoing the first few weeks in python instead of C
 
