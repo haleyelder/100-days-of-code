@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 21 Oct 27
+- short day as I felt the eye strain/dryness creeping up today, testing around with having to load in two files to scan for DNA but had a mini  breakthrough before break for the night
+
 ### 20 Oct 25
 - got to be pretty productive today and finished up two more conversion problem sets and started on DNA, might be kind of close to referring to 'tournament' or at least steal some code from that...
 
