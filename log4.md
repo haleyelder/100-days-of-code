@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 22 Oct 28
+- another short day, going to leave most of the problem till the weekend so I can relax a little till then. a larger dose of anxiety and imposter syndrome this week really hit my motivation
+
 ### 21 Oct 27
 - short day as I felt the eye strain/dryness creeping up today, testing around with having to load in two files to scan for DNA but had a mini  breakthrough before break for the night
 
