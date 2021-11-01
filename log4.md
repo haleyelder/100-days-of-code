@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 23 Oct 31
+- keep staring at the problem and still feel the 'missing something' issue but idk what it is...got out of the house a little to do some pseudocode on paper but couldn't focus long. maybe strike of inspiration will hit tomorrow? 
+
 ### 22 Oct 28
 - another short day, going to leave most of the problem till the weekend so I can relax a little till then. a larger dose of anxiety and imposter syndrome this week really hit my motivation
 
