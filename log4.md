@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 24 Nov 4
+- nice lil break to get a handle on some things... and switching gears to the scientific computing with python under the freecodecamp curriculum to get a bit more handle of the basics and practice. watched through some of the intro videos and will need to go back through to some exercise videos linked; i thought they were more explanations, not actual problems. tired brain 🙃
+
 ### 23 Oct 31
 - keep staring at the problem and still feel the 'missing something' issue but idk what it is...got out of the house a little to do some pseudocode on paper but couldn't focus long. maybe strike of inspiration will hit tomorrow? 
 
