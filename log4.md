@@ -1,5 +1,8 @@
 start date: September 23, 2021, prospective end date: January 1, 2022
 
+### 25 Nov 6
+- went back to create a specific folder and practice files on my local machine for the video resources, found the actual book that's being covered so I can refer to it separately and went through a couple more videos. Def need the additional written out docs/tutorial to help since I lose attention span prety quick in videos, but it's geared for anyone to follow and some explanations do actually help!
+
 ### 24 Nov 4
 - nice lil break to get a handle on some things... and switching gears to the scientific computing with python under the freecodecamp curriculum to get a bit more handle of the basics and practice. watched through some of the intro videos and will need to go back through to some exercise videos linked; i thought they were more explanations, not actual problems. tired brain 🙃
 
