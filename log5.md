@@ -1,5 +1,20 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 6: Aug 6
+- flexbox froggy, adding styles to foodie app
+  - time: 1.5 hrs
+
+### 5: Aug 5
+- break, out hiking! 
+  - time: 0 hrs
+    
+### 4: Aug 4
+- little bit of SQL practice and flexbox
+  - time: .5 hrs
+    
+### 3: Aug 3
+- break
+  - time: 0 hrs
 
 ### 2: Aug 2
 - conditional rendering for the true/false values of rendering, ideally have a check mark on one side for "visited", picked a coolors color scheme 
@@ -7,4 +22,4 @@ start date: August 1, 2023, prospective end date: November 9, 2023
 
 ### 1: Aug 1
 - figma sketch Foodie Finder design, moved around data and components in FF, starting design layout with flexbox (maybe css grid?), deciding later
-  - time: 1.5hrs 
+  - time: 1.5 hrs 
