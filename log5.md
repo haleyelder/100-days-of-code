@@ -1,5 +1,8 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 7: Aug 7
+- more flexbox fun! (struggles)
+  - time: 1 hr
 ### 6: Aug 6
 - flexbox froggy, adding styles to foodie app
   - time: 1.5 hrs
