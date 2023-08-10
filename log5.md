@@ -1,5 +1,8 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 9: Aug 9
+- added in a little search bar and click to copy the location text! found a tutorial to build on the search bar as I want to filter certain aspects too
+  - time: 1 hr
 ### 8: Aug 8
 - a bit more styling tweaking, one flexbox struggle area, _almost_ reverted to bootstrap
   - time: .5 hr
