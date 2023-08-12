@@ -1,6 +1,12 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
 ### 9: Aug 9
+- did some Scrimba JS course earlier and testing out filter sorting tables to no avail, a rabbit hole
+  - time: 1.5 hr
+### 10: Aug 10
+- more finaggling with sorting, not much progress
+  - time: .5 hr
+### 9: Aug 9
 - added in a little search bar and click to copy the location text! found a tutorial to build on the search bar as I want to filter certain aspects too
   - time: 1 hr
 ### 8: Aug 8
