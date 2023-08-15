@@ -1,6 +1,10 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
-### 9: Aug 9
+
+### 12-14: Aug 12-14
+- more rabbit hole into sorting, react hooks, tables, finally went back to an old tutorial to get something sort of working for now, but only does ascending. will work on descending next
+  - time: (12) 2.5 hrs, (13) 1 hr, (14) 1 hr (yes I'm cheating with this entry :) )
+### 11: Aug 11
 - did some Scrimba JS course earlier and testing out filter sorting tables to no avail, a rabbit hole
   - time: 1.5 hr
 ### 10: Aug 10
