@@ -1,6 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
-
+### 22: Aug 22
+- still fighting the ascending and descending sort for four different lists and got _something_ working! definitely fix up later but it was a mental roadblock I was stuck on
+  - time: 1 hr
+### 15-21: Aug 15-21
+- heat wave stress (100F or higher for 4 days) and 0 energy, needed a break 
+  - time: 0 hrs
 ### 12-14: Aug 12-14
 - more rabbit hole into sorting, react hooks, tables, finally went back to an old tutorial to get something sort of working for now, but only does ascending. will work on descending next
   - time: (12) 2.5 hrs, (13) 1 hr, (14) 1 hr (yes I'm cheating with this entry :) )
