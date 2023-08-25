@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 24: Aug 24
+- putting the sort list back into the styled list I had before with _buttons_, fun CSS styling times
+  - .5 hr
+### 23: Aug 23
+- stressful work day, went on a walk and made gnocchi
+  - 0 hrs
 ### 22: Aug 22
 - still fighting the ascending and descending sort for four different lists and got _something_ working! definitely fix up later but it was a mental roadblock I was stuck on
   - time: 1 hr
