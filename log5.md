@@ -1,5 +1,8 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 25: Aug 25
+- some more styling updates, may revert to bootstrap or another grid system. testing out color branding options
+    - .5 hr
 ### 24: Aug 24
 - putting the sort list back into the styled list I had before with _buttons_, fun CSS styling times
   - .5 hr
