@@ -1,5 +1,7 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
-
+### 26: Aug 26
+- finding some icon PNGs for custom icons (if they will work), got one rendering, more troubleshooting to do
+  - 1.5 hrs
 ### 25: Aug 25
 - some more styling updates, may revert to bootstrap or another grid system. testing out color branding options
     - .5 hr
