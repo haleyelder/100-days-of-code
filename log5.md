@@ -1,6 +1,10 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
+
+### 28: Aug 28 
+- more icon script fixing, getting closer!
+  - 1 hrs
 ### 27: Aug 27 
-- some additional troubelshooting for more custom icons, one works! working out next steps
+- some additional troubleshooting for more custom icons, one works! working out next steps
   - 1.5 hrs
 ### 26: Aug 26
 - finding some icon PNGs for custom icons (if they will work), got one rendering, more troubleshooting to do
