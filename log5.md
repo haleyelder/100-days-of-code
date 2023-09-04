@@ -1,5 +1,17 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 34: Sept 3
+- more finaggling of the dang icons! getting closer.. still
+  - 2.5hrs
+### 33: Sept 2
+- break
+  - 0 hrs
+### 32: Sept 1
+- a little bit of Scrimba JS video
+  - .5hrs
+### 29-31: Aug 29-31
+- break
+  - 0 hrs
 ### 28: Aug 28 
 - even more troubleshooting! getting closer with the logic i think
   - 1 hrs
