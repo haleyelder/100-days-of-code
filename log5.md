@@ -1,5 +1,7 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
-
+### 35: Sept 4
+- ✨ thanks to finally clicking on a Youtube tutorial, got the custom markers working per type!
+  - 1.5 hrs
 ### 34: Sept 3
 - more finaggling of the dang icons! getting closer.. still
   - 2.5hrs
