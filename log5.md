@@ -1,4 +1,7 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
+### 36: Sept 5
+- some react review on codecademy
+  - 1 hrs
 ### 35: Sept 4
 - ✨ thanks to finally clicking on a Youtube tutorial, got the custom markers working per type!
   - 1.5 hrs
