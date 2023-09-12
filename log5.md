@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 42: Sept 11
+- cont React review on codecademy, trudging through hooks, may need a second go through
+  - 1 hrs
+### 41: Sept 10
+- break, hike day!
+  - 0 hrs
 ### 40: Sept 9
 - cont React review on codecademy, props!
   - 1.5 hrs
