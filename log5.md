@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 44: Sept 13
+- cleaning some code folders, planning, and set up new lil desk area; I'm going to count it :) 
+  - .5 hrs
+### 43: Sept 12
+- break
+  - 0 hrs
 ### 42: Sept 11
 - cont React review on codecademy, trudging through hooks, may need a second go through
   - 1 hrs
