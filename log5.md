@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 46: Sept 15
+- productive day! fixed some toggle on click function, clean up and some styling updates 
+  - 2 hrs
+### 45: Sept 14
+- break, cider-y afternoon
+  - 0 hrs
 ### 44: Sept 13
 - cleaning some code folders, planning, and set up new lil desk area; I'm going to count it :) 
   - .5 hrs
