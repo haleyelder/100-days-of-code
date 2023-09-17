@@ -1,5 +1,8 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 47: Sept 16
+- added in a 'reset' button for sorting toggle. tested out a possible onclick tooltip, may go about it another way. can copy now but having the indication is helpful
+  - 1 hr
 ### 46: Sept 15
 - productive day! fixed some toggle on click function, clean up and some styling updates 
   - 2 hrs
