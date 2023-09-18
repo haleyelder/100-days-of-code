@@ -1,5 +1,8 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 48: Sept 17
+- tweaked the sorting button just to show indication of sorting and some style updates
+  - 1 hr
 ### 47: Sept 16
 - added in a 'reset' button for sorting toggle. tested out a possible onclick tooltip, may go about it another way. can copy now but having the indication is helpful
   - 1 hr
