@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 50: Sept 19
+- set up a course list (mostly) and reading over basics at javascript.info
+  - 1 hr
+### 49: Sept 18
+- break
+  - 0 hr
 ### 48: Sept 17
 - tweaked the sorting button just to show indication of sorting and some style updates
   - 1 hr
