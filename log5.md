@@ -1,5 +1,14 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 54: Sept 19
+- lot of updates tweaking newly renamed Cafe Quest! mostly styling and last todos to do and such
+  - 2.5 hr
+### 52-53: Sept 21-22
+- break!
+  - 0 hr
+### 51: Sept 20
+- PDX Jr Devs meetup, listening to an interview prep Q&A, joined [Empathetech](https://www.empathetech.org/) Slack 
+  - 1.5 hr
 ### 50: Sept 19
 - set up a course list (mostly) and reading over basics at javascript.info
   - 1 hr
