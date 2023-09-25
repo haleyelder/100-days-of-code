@@ -1,6 +1,9 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
-### 54: Sept 19
+### 55: Sept 24
+- more styling updates, changed the design of the icon so it mimics the original icon but color coded and initialized for now. couple more small things and then deploy! enhancements updates will be on README
+  - 2 hr
+### 54: Sept 23
 - lot of updates tweaking newly renamed Cafe Quest! mostly styling and last todos to do and such
   - 2.5 hr
 ### 52-53: Sept 21-22
