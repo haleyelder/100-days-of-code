@@ -1,5 +1,8 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 56: Sept 25
+- more struggling with onclick copy-to-clipboard function, scrapping for now. updated directions link and README prospective enhancements
+  - 1.5 hr
 ### 55: Sept 24
 - more styling updates, changed the design of the icon so it mimics the original icon but color coded and initialized for now. couple more small things and then deploy! enhancements updates will be on README
   - 2 hr
