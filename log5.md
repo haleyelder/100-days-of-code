@@ -1,5 +1,14 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 62: Oct 1
+- more tweaks and deploy on Render! 🎉
+  - 1 hr
+### 61: Sept 30
+- starting to tweak some styling and description for mobile responsive, in between styles will come later
+  - 1 hr
+### 57-60: Sept 26-29
+- stressful work week, break (mostly reading)
+  - 0 hr
 ### 56: Sept 25
 - more struggling with onclick copy-to-clipboard function, scrapping for now. updated directions link and README prospective enhancements
   - 1.5 hr
