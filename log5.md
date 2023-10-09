@@ -1,5 +1,14 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 69: Oct 8
+- restarting Fullstack Open, reviewing part1
+  - 1 hr
+### 64-68: Oct 3 - 7
+- break
+  - 0 hr
+### 63: Oct 2
+- ported over a UI sketch from paper to Figma for a possible timeblock app
+  - .5 hr
 ### 62: Oct 1
 - more tweaks and deploy on Render! 🎉
   - 1 hr
