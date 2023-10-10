@@ -1,5 +1,8 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 70: Oct 9
+- reading up on React docs and cont part 2 of FSO
+  - 1.5 hr
 ### 69: Oct 8
 - restarting Fullstack Open, reviewing part1
   - 1 hr
