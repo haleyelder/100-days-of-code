@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 72: Oct 11
+- part 1 recap to do the exercises and moved around trackers for course work and exercises
+  - 1 hr
+### 71: Oct 10
+- more part 2 FSO
+  - 1 hr
 ### 70: Oct 9
 - reading up on React docs and cont part 2 of FSO
   - 1.5 hr
