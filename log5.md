@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 77: Oct 16
+- blog research again to migrate away from wordpress, still not sure which
+  - .5 hr
+### 73-76: Oct 12-15
+- break week, stress, and a hike
+  - 0 hr
 ### 72: Oct 11
 - part 1 recap to do the exercises and moved around trackers for course work and exercises
   - 1 hr
