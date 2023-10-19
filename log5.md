@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 79: Oct 18
+- astro blog tutorial and setting up fCC DS/Algos counter
+  - 1 hr
+### 78: Oct 17
+- paint night!
+  - 0 hr
 ### 77: Oct 16
 - blog research again to migrate away from wordpress, still not sure which
   - .5 hr
