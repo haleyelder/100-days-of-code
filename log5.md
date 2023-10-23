@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 83: Oct 22
+- perused astro blog templates but probably design my own. picked a react/local storage tutorial as basis for timeblok.
+  - 1 hr
+### 82: Oct 19-21
+- break
+  - 0 hr
 ### 79: Oct 18
 - astro blog tutorial and setting up fCC DS/Algos counter
   - 1 hr
