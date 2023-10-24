@@ -1,5 +1,7 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
-
+### 84: Oct 23
+- finally found an example google books API call! got it set up tonight and testing it out, page calculator is a go :)
+  - 1.5 hrs
 ### 83: Oct 22
 - perused astro blog templates but probably design my own. picked a react/local storage tutorial as basis for timeblok.
   - 1 hr
