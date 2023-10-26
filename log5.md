@@ -1,4 +1,10 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
+### 86: Oct 25
+- a bit more JS basics and quick tutorial on vanilla JS and local storage
+  - 1.5 hrs
+### 85: Oct 24
+- short eve of some fCC DS/Algos beginner JS recap and adding stats to my tracker
+  - .5 hrs
 ### 84: Oct 23
 - finally found an example google books API call! got it set up tonight and testing it out, page calculator is a go :)
   - 1.5 hrs
