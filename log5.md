@@ -1,4 +1,7 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
+### 87: Oct 26
+- working on book pages doing the fun time calculation part! (sarcasm), got a good chunk done, now to wire it to inputs and validation (our friend regex)
+  - 1hr
 ### 86: Oct 25
 - a bit more JS basics and quick tutorial on vanilla JS and local storage
   - 1.5 hrs
