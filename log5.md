@@ -1,4 +1,10 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
+### 89: Oct 28
+- fcc ds algos practice, basic JS
+  - 1 hr
+### 88: Oct 27
+- break
+  - 0hr
 ### 87: Oct 26
 - working on book pages doing the fun time calculation part! (sarcasm), got a good chunk done, now to wire it to inputs and validation (our friend regex)
   - 1hr
