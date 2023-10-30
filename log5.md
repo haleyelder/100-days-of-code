@@ -1,4 +1,8 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
+
+### 90: Oct 29
+- grab bag of portfolio sketch design (changed branding colors again), fcc algos and looking into Fitbit API auth
+  - 1.5 hr
 ### 89: Oct 28
 - fcc ds algos practice, basic JS
   - 1 hr
