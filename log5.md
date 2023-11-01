@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 92: Oct 31 🎃
+- finished up record collection (fcc) without hints!!
+  - .5 hr
+### 91: Oct 30
+- break, paint night
+  - 0 hr
 ### 90: Oct 29
 - grab bag of portfolio sketch design (changed branding colors again), fcc algos and looking into Fitbit API auth
   - 1.5 hr
