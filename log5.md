@@ -1,5 +1,11 @@
 start date: August 1, 2023, prospective end date: November 9, 2023
 
+### 94: Nov 2
+- fcc basic JS finsihed! 
+  - 1.5 hr
+### 93: Nov 1
+- fcc basic JS cont
+  - .5 hr
 ### 92: Oct 31 🎃
 - finished up record collection (fcc) without hints!!
   - .5 hr
