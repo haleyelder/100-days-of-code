@@ -1,5 +1,8 @@
-start date: August 1, 2023, prospective end date: November 9, 2023
+start date: August 1, 2023, prospective end date: November 8, 2023
 
+### 95-100: Nov 3 - 8 
+- went outta town and then nada! pretty anticlimatic end :)
+  - 0 hrs
 ### 94: Nov 2
 - fcc basic JS finsihed! 
   - 1.5 hr
